@@ -1,0 +1,30 @@
+#move-to-top{
+background-color: 
+}
+
+#move-to-top {
+    color: rgba(228, 103, 17, 0.87);
+    cursor: pointer;
+    display: inline-block;
+    font-weight: bold;
+    padding-right: 10px;
+    padding: initial 10px;
+    position: fixed;
+    right: 10px;
+    bottom: 20px;
+    width: 20px;
+    z-index: 999;
+    background: white;
+    transition: all 0.25s linear;
+    -webkit-backface-visibility: hidden;
+    text-align: left;
+    border-radius: 2px;
+
+}
+
+#move-to-top .fa-angle-up {
+    position: relative;
+    top: 0;
+    font-size: 22px;
+    line-height: 40px;
+}
