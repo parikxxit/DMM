@@ -45,26 +45,31 @@
           </ul>
         </li>
      </ul>
-            
      <ul class="nav navbar-nav">
       <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Other Building <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="rolta-club.php">Rolta Club</a></li>
-            <li><a href="deans-office.php">Dean(s) Office</a></li>
-            <li><a href="manit-school.php">Manit School</a></li>
-            <li><a href="ntb.php">New Teaching Block/NTB</a></li>
-            <li><a href="sac.php">Student Activity Center/SAC</a></li>
+            <li><a href="../other-building/rolta-club.php">Rolta Club</a></li>
+            <li><a href="../other-building/deans-office.php">Dean(s) Office</a></li>
+            <li><a href="../other-building/manit-school.php">Manit School</a></li>
+            <li><a href="../other-building/ntb.php">New Teaching Block/NTB</a></li>
+            <li><a href="../other-building/sac.php">Student Activity Center/SAC</a></li>
+            <li><a href="../manit-porch/admin-block.php">Admin Block</a></li>
+            <li><a href="../manit-porch/post-office.php">Post Office</a></li>
+            <li><a href="../manit-porch/sbi-atm.php">SBI ATM</a></li>
           </ul>
         </li>
      </ul>        
      <ul class="nav navbar-nav">
       <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Manit Porch <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Layouts <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="../manit-porch/admin-block.php">Admin Block</a></li>
-            <li><a href=../manit-porch/"post-office.php">Post Office</a></li>
-            <li><a href="../manit-porch/sbi-atm.php">SBI ATM</a></li>
+            <li>layout_1</li>
+            <li>layout_2</li>
+            <li>layout_3</li>
+            <li>layout_4</li>
+            <li>layout_5</li>
+            <li>layout_6</li>
           </ul>
         </li>
      </ul>            

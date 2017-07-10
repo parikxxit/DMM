@@ -17,8 +17,12 @@
 	//////////////////////////////////////////////////////
 
 	FREE HTML5 TEMPLATE 
-	DESIGNED & DEVELOPED by nitin mishra
+	DESIGNED & DEVELOPED by FREEHTML5.CO
 		
+	Website: 		http://freehtml5.co/
+	Email: 			info@freehtml5.co
+	Twitter: 		http://twitter.com/fh5co
+	Facebook: 		https://www.facebook.com/fh5co
 
 	//////////////////////////////////////////////////////
 	 -->

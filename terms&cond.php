@@ -6,7 +6,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Team Members</title>
+	<title>Terms_&_Conditions</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="" />
 	<meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
@@ -61,13 +61,14 @@
 		 ?>
 	</header>
 	<!-- END .header -->
+
 	
 	<aside class="fh5co-page-heading">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
 					<h1 class="fh5co-page-heading-lead">
-						Core Team
+						terms and conditions:-
 						<span class="fh5co-border"></span>
 					</h1>
 					
@@ -77,66 +78,26 @@
 	</aside>
 	
 	<div id="fh5co-main">
-		
 		<div class="container">
 			<div class="row">
-				<div class="col-md-12">
-				
-					<div class="row">
-						<div class="col-md-3">
-							<p><a href="photos_team_members/N.jpeg" class="image-popup"><img src="images/slide_1.jpg" alt="FREEHTML5.co Free HTML5 Template" class="img-responsive img-rounded"></a></p>
-							<p><h3>NITIN MISHRA</STRONG></h3>
-							<ul class="fh5co-list-check">
-								<li>Technical Director</li>
-								<li>Web Developer (Frontend+Backend)</li>
-								<li>EMAIL-nitinmsra1140@gmail.com</li>
-									<ul class="fh5co-social">
-										<li><a href="https://www.facebook.com/NitinMi210"><i class="icon-facebook"></i></a></li>
-										<li><a href="https://www.instagram.com/nitinmi210/?hl=en"><i class="icon-instagram"></i></a></li>
-										<li><a href="https://www.linkedin.com/in/nitin-mishra-266718134/"><i class="icon-linkedin"></i></a></li>
-										<li><a href="https://www.quora.com/profile/Nitin-Mishra-77"><i class="fa fa-quora" aria-hidden="true"></i></a></li>
-									</ul>
-								</ul>
-						</div>
-							<div class="col-md-3">
-							<p><a href="photos_team_members/AZ.jpg" class="image-popup"><img src="images/slide_1.jpg" alt="FREEHTML5.co Free HTML5 Template" class="img-responsive img-rounded"></a></p>
-							<p><h3>AZHAR AHMAD</h3></p>
-							<ul class="fh5co-list-check">
-								<li>Founder</li>
-							    <li>EMAIL-ashuah65@gmail.com</li>
-								    <ul class="fh5co-social">
-										<li><a href="https://www.facebook.com/Azharahmad5"><i class="icon-facebook"></i></a></li>
-										<li><a href="https://www.instagram.com/a_a_siddiqui786"><i class="icon-instagram"></i></a></li>
-									</ul>
-							</ul>
-						</div>
-							<div class="col-md-3">
-							<p><a href="photos_team_members/AY.jpg" class="image-popup"><img src="images/slide_1.jpg" alt="FREEHTML5.co Free HTML5 Template" class="img-responsive img-rounded"></a></p>
-						<p><h3>AYUSH CHATURVEDI</h3></p>
-							<ul class="fh5co-list-check">
-								<li>Building Designer</li>
-								<li>EMAIL-aayush310599@gmail.com</li>
-								     <ul class="fh5co-social">
-										<li><a href="https://www.facebook.com/aayush.chaturvedi.581"><i class="icon-facebook"></i></a></li>
-										<li><a href="https://www.instagram.com/aayush.315"><i class="icon-instagram"></i></a></li>
-									</ul>
-						</div>
-							<div class="col-md-3">
-							<p><a href="photos_team_members/J.jpeg" class="image-popup"><img src="images/slide_1.jpg" alt="FREEHTML5.co Free HTML5 Template" class="img-responsive img-rounded"></a></p>
-						<p><h3>JAYANT AGRAWAL</h3></p>
-							<ul class="fh5co-list-check">
-								<li>Building Designer</li>
-								<li>EMAIL-xjayantagrawalx@gmail.com</li>
-                                    <ul class="fh5co-social">
-										<li><a href="https://www.facebook.com/jayant.agrawal.71"><i class="icon-facebook"></i></a></li>
-									</ul>
-
-						</div>
+				<div class="col-md-12">				
+							<li>Site is maintained by "INNOVATION Group". All projects and files are under it.</li>
+							<li>All projects and files are under "INNOVATION Group".</li>
+							<li><strong>Download Google Earth for viewing all files of this website.</strong></li>
+							<li>Google Earth(Software) can only be used to see the buildings in Personal Computer/Laptop.</li>
+							<li>In Google Earth mobile software you can view only map with names of places and no 3-D image will be seen.</li>
+							<li>At some places you can see the buildings in or out of the terrain. So,please mail us for this issue because that is due to differences in Google Earth terrain and in plain terrain.</li>
+							<li>After downloading .kmz extension file, view it in Google Earth software for PC/Laptop.</li>
+							<li>This site is only for educational and beneficial purpose of our college.</li>
 				</div>
 			</div>
 		</div>
-	</div>
-
+<button class="btn btn-primary btn-active btn-center"><a href="about-us.php">Enter the site!</a></button>
+	<div id="fh5co-main">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+	
 	<div class="fh5co-spacer fh5co-spacer-lg"></div>
 
 	<footer id="fh5co-footer">
