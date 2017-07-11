@@ -65,15 +65,11 @@
       <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Layouts <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li>layout_1</li>
-            <li>layout_2</li>
-            <li>layout_3</li>
-            <li>layout_4</li>
-            <li>layout_5</li>
-            <li>layout_6</li>
+            <li><a href="layouts/ntb1.jpg" download="download">Ntb Ground Floor</a></li>
+            <li><a href="layouts/ntb.jpg" download="download">Ntb First Floor</a></li>
           </ul>
         </li>
-     </ul>              
+     </ul>           
      <ul class="nav navbar-nav">
       <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Departments <span class="caret"></span></a>
