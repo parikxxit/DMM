@@ -1,5 +1,6 @@
 <?php 
 	$title = "Chemical and MSME Department";
+	$download = "chemical_msme.kmz";
  ?>
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
