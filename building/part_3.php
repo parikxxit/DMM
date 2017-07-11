@@ -1,5 +1,7 @@
 </p>
-							<button class="btn btn-primary btn-active btn-center">View in Google Earth!</button>
+	<?php 
+		echo '<a href="kmz-files/' . $download . '" class="btn btn-primary btn-active btn-center" download>View in Google Earth!</a>';
+	 ?>
 						</div>
                     </div> 
                 </div>
