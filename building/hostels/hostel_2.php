@@ -1,6 +1,6 @@
 <?php 
 	$title = "Hostel 2";
-	$download = "hostel_1.kmz";
+	$download = "hostel_2.kmz";
  ?>
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
@@ -29,7 +29,7 @@
 		require '../part_2.php';
 	?>
 	<!-- link of image and popup image -->
-	<a href="https://grasshoppersoccer.com.au/images/franchisee/files/23/fullsize.jpg" class="image-popup"><img src="https://grasshoppersoccer.com.au/images/franchisee/files/23/fullsize.jpg" alt="FREEHTML5.co Free HTML5 Template" class="img-responsive img-rounded"></a>
+	<a href="images_all_buildings/hostels/hostel_2.jpg" class="image-popup"><img src="images_all_buildings/hostels/hostel_2.jpg" alt="FREEHTML5.co Free HTML5 Template" class="img-responsive img-rounded"></a>
 	<?php 
 		require '../part_3.php';
 	 ?>

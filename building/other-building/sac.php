@@ -29,7 +29,7 @@
 		require '../part_2.php';
 	?>
 	<!-- link of image and popup image -->
-	<a href="https://grasshoppersoccer.com.au/images/franchisee/files/23/fullsize.jpg" class="image-popup"><img src="https://grasshoppersoccer.com.au/images/franchisee/files/23/fullsize.jpg" alt="FREEHTML5.co Free HTML5 Template" class="img-responsive img-rounded"></a>
+	<a href="images_all_buldings/other_buildings/sac.jpg" class="image-popup"><img src="images_all_buldings/other_buildings/sac.jpg" alt="FREEHTML5.co Free HTML5 Template" class="img-responsive img-rounded"></a>
 	<?php 
 		require '../part_3.php';
 	 ?>
