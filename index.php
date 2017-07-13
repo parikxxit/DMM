@@ -25,7 +25,7 @@
 						</div>
 						<nav>
 							<ul>
-								<li><a href="terms&cond.php">Explore Digital MANIT/NIT-B !</a></li>
+								<li><a href="terms&cond.php">Explore Digital MANIT/NIT-B!</a></li>
 								</ul>
 						</nav>
 					</header>
