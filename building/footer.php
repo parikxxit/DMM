@@ -22,9 +22,8 @@
 					<div class="fh5co-footer-widget">
 						<h4 class="fh5co-footer-lead ">INNOVATE WITH US-</h4>
 						<ul>
-							<li><a href="about%20us.html">About</a></li>
-							<li><a href="front%20page.html">Quick Demo</a></li>
-							<li><a href="Our%20Team.html">Our Team</a></li>
+							<li><a href="about-us.php">About Us</a></li>
+							<li><a href="Our-team.html">Our Team</a></li>
 							<li><a href="#">Photos</a></li>
 						</ul>
 					</div>
