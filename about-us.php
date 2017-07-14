@@ -13,19 +13,6 @@ l
 	<meta name="keywords" content="Innovation Group is a non-profitable and completely independent group of NIT-B students. This group/community/society will serve as a platform to do innovative things which resembles with the technical understanding of the students.DMM is denoting the abbreviation of one of the project of innovation group which refers to the Digital Map of MANIT/NIT-B." />
 	<meta name="Nitin Mishra" content="Innovation Group is a non-profitable and completely independent group of NIT-B students. This group/community/society will serve as a platform to do innovative things which resembles with the technical understanding of the students.DMM is denoting the abbreviation of one of the project of innovation group which refers to the Digital Map of MANIT/NIT-B." />
 
-  <!-- 
-	//////////////////////////////////////////////////////
-
-	FREE HTML5 TEMPLATE 
-	DESIGNED & DEVELOPED by FREEHTML5.CO
-		
-	Website: 		http://freehtml5.co/
-	Email: 			info@freehtml5.co
-	Twitter: 		http://twitter.com/fh5co
-	Facebook: 		https://www.facebook.com/fh5co
-
-	//////////////////////////////////////////////////////
-	 -->
 
   <!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
@@ -95,7 +82,7 @@ l
 				<div class="col-md-12">
 				<p>This website corresponds to the <em><strong>Project DMM(Digital Map of MANIT/NIT-B)</strong></em> which is under the <em><strong>INNOVATION-Group</strong></em> that is a group of 4 students & (Prof.) Mr. Bholanath Roy of CSE department. <strong>Bholanath Roy Sir</strong> wants to create a group of students <em><strong>(especially of 1st year students)</strong></em> which can do some inspirational and innovative work so as to help others and to show that students of first year can do something.</p>
 				<p>Initially, <strong>Azhar Ahmad (Mechanical 2016-20)</strong> was given the work to find a way to <strong>digitalise</strong> the campus by Bholanath sir and he founded a way to do this new & innovative work and he discussed this idea with his 3 friends namely <strong>Nitin Mishra(Civil 2016-20), Ayush Chaturvedi(Civil 2016-20) & Jayant Agrawal(Civil 2016-20)</strong> and we all four agreed to work as a team under the guidance of Bholanath sir. After the work has been started, it has been taken 2 months approximately to cover our initial/first phase.</p>
-				<p><strong>Nitin Mishra(Civil 2016-20)</strong> has developed this website. So, in case of any <em>complaints, suggestions, feedbacks, and possible changes in the content of the website</em> , the viewers of the website and readers of this <strong>"About Us"</strong> page can send their mail directly at <strong>< nitinmi210.nitb@gmail.com ></strong> or <strong>< ashuah65@gmai.com ></strong> . Also, all the contents here are <em>restricted & cannot be copied, published and edited </em>without the prior permission of the developer and the team members.</p>
+				<p><strong>Nitin Mishra(Civil 2016-20)</strong> has developed this website(Frontend+Backend). So, in case of any <em>complaints, suggestions, feedbacks, and possible changes in the content of the website</em> , the viewers of the website and readers of this <strong>"About Us"</strong> page can send their mail directly at <strong>< nitinmi210.nitb@gmail.com ></strong> or <strong>< ashuah65@gmai.com ></strong> . Also, all the contents here are <em>restricted & cannot be copied, published and edited </em>without the prior permission of the developer and the team members.</p>
 				<p>This website and building content is created in order to show innovation and reflect the ideas of Bholanath sir, which is <em>"first year students can do the great job if they are guided"</em>. This project is done in order to help the society and welfare and our team is <em>thankful</em> to the platform provided by <em><strong>NIT-Bhopal(An Institute of National Importance)</strong></em>.</p>
 				<p>Right now we are forwarding to our phase 2.
 				   <p><em>Our phases :-</em></p>
