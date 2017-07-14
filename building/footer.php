@@ -23,7 +23,7 @@
 						<h4 class="fh5co-footer-lead ">INNOVATE WITH US-</h4>
 						<ul>
 							<li><a href="about-us.php">About Us</a></li>
-							<li><a href="Our-team.php">Our Team</a></li>
+							<li><a href="Our-team.html">Our Team</a></li>
 							<li><a href="#">Photos</a></li>
 						</ul>
 					</div>
