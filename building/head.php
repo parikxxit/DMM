@@ -4,8 +4,8 @@
 	<title>Digital Map of NITB/ MANIT <?php print_r($title); ?></title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
-	<meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
-	<meta name="author" content="FREEHTML5.CO" />
+	<meta name="keywords" content="Innovation Group is a non-profitable and completely independent group of NIT-B students. This group/community/society will serve as a platform to do innovative things which resembles with the technical understanding of the students.DMM is denoting the abbreviation of one of the project of innovation group which refers to the Digital Map of MANIT/NIT-B." />
+	<meta name="Nitin Mishra" content="Innovation Group is a non-profitable and completely independent group of NIT-B students. This group/community/society will serve as a platform to do innovative things which resembles with the technical understanding of the students.DMM is denoting the abbreviation of one of the project of innovation group which refers to the Digital Map of MANIT/NIT-B." />
   <!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
 	<meta property="og:image" content=""/>
